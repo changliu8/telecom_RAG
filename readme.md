@@ -28,3 +28,6 @@ This prototype depolyed on Windows, and it is written in Python.
 3. **Add related pdf files (e.g. textbooks) in directory \content.**
 4. **Execute the rag.ipynb**
 5. **Ask questions to your own rag**
+
+### Example
+![screenshot](example1.png)
